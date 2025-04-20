@@ -1,6 +1,8 @@
 # ShowMoreTextView
 
-A customizable Android TextView that automatically collapses long text content with a "Show More" indicator, allowing users to expand and collapse text with a simple click.
+A customizable Android TextView that automatically collapses long text content with a "Show More" indicator, allowing users to expand text with a simple click.
+
+https://github.com/user-attachments/assets/99e7be11-d723-44e1-8163-b285369a43df
 
 ## Features
 
